@@ -43,6 +43,9 @@ dependencies:
   get: ^4.6.6
   permission_handler: ^11.3.1
   screenshot: ^2.3.0
+  image_gallery_saver: ^2.0.3
+  flutter_colorpicker: ^1.0.3
+  flex_color_picker: ^3.4.1
 
 dev_dependencies:
   flutter_test:
